@@ -1,0 +1,18 @@
+{"Restaurants": [
+    {
+        "overallRating": 9.1,
+        "restaurantName": "Kissa Tanto",
+        "diningEnvironment": "Upscale",
+        "totalExpenses": 314.99,
+        "cuisineType": "Contemporary",
+        "partySize": 2
+    },
+    {
+        "overallRating": 6.29,
+        "restaurantName": "McDonald's",
+        "diningEnvironment": "Casual",
+        "totalExpenses": 13.99,
+        "cuisineType": "Fast Food",
+        "partySize": 1
+    }
+]}

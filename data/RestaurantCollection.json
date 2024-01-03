@@ -1,0 +1,58 @@
+{"Restaurants": [
+    {
+        "overallRating": 7.8,
+        "restaurantName": "Oddfish",
+        "diningEnvironment": "Casual",
+        "totalExpenses": 98.7,
+        "cuisineType": "Italian",
+        "partySize": 2
+    },
+    {
+        "overallRating": 8.9,
+        "restaurantName": "Kissa Tanto",
+        "diningEnvironment": "Upscale",
+        "totalExpenses": 247.59,
+        "cuisineType": "Fine Dining",
+        "partySize": 2
+    },
+    {
+        "overallRating": 8.5,
+        "restaurantName": "Greenleaf",
+        "diningEnvironment": "Casual",
+        "totalExpenses": 98.58,
+        "cuisineType": "Japanese",
+        "partySize": 4
+    },
+    {
+        "overallRating": 2.42,
+        "restaurantName": "Test2",
+        "diningEnvironment": "Casual",
+        "totalExpenses": 235.22,
+        "cuisineType": "Italian",
+        "partySize": 3
+    },
+    {
+        "overallRating": 8.92,
+        "restaurantName": "Test1",
+        "diningEnvironment": "Casual",
+        "totalExpenses": 90.23,
+        "cuisineType": "Italian",
+        "partySize": 1
+    },
+    {
+        "overallRating": 8.5,
+        "restaurantName": "Gyu Kaku",
+        "diningEnvironment": "Casual",
+        "totalExpenses": 60,
+        "cuisineType": "Japanese BBQ",
+        "partySize": 1
+    },
+    {
+        "overallRating": 9.5,
+        "restaurantName": "Danbo",
+        "diningEnvironment": "Casual",
+        "totalExpenses": 15,
+        "cuisineType": "Ramen",
+        "partySize": 1
+    }
+]}

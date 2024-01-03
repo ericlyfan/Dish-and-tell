@@ -1,0 +1,21 @@
+{
+  "Restaurants": [
+    {
+      "restaurantName": "Maenam",
+      "diningEnvironment": "Upscale",
+      "cuisineType": "Contemporary",
+      "overallRating": "8.7",
+      "totalExpenses": "230.46",
+      "partySize": "2"
+    },
+
+    {
+      "restaurantName": "Subway",
+      "diningEnvironment": "Casual",
+      "cuisineType": "Fast Food",
+      "overallRating": "6.5",
+      "totalExpenses": "14.79",
+      "partySize": "1"
+    }
+  ]
+}
