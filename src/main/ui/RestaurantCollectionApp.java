@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
 
-// Restaurant Application
+// Restaurant Application in Console
 public class RestaurantCollectionApp {
     private RestaurantCollection collection;
     private Scanner userInput;
