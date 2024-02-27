@@ -24,22 +24,6 @@
         "partySize": 4
     },
     {
-        "overallRating": 2.42,
-        "restaurantName": "Test2",
-        "diningEnvironment": "Casual",
-        "totalExpenses": 235.22,
-        "cuisineType": "Italian",
-        "partySize": 3
-    },
-    {
-        "overallRating": 8.92,
-        "restaurantName": "Test1",
-        "diningEnvironment": "Casual",
-        "totalExpenses": 90.23,
-        "cuisineType": "Italian",
-        "partySize": 1
-    },
-    {
         "overallRating": 8.5,
         "restaurantName": "Gyu Kaku",
         "diningEnvironment": "Casual",
@@ -54,5 +38,21 @@
         "totalExpenses": 15,
         "cuisineType": "Ramen",
         "partySize": 1
+    },
+    {
+        "overallRating": 8.35,
+        "restaurantName": "Bao Bei Chinese Brasserie",
+        "diningEnvironment": "Casual",
+        "totalExpenses": 78.9,
+        "cuisineType": "Chinese",
+        "partySize": 2
+    },
+    {
+        "overallRating": 7.4,
+        "restaurantName": "Jade Dynasty Restaurant",
+        "diningEnvironment": "Casual",
+        "totalExpenses": 123.45,
+        "cuisineType": "Chinese",
+        "partySize": 3
     }
 ]}
